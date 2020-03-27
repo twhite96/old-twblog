@@ -1,0 +1,5 @@
+# pack-refs with: peeled fully-peeled sorted 
+b35e52830ea2b1b9fb1dd5fa54f3aff7ff5a2075 refs/remotes/origin/debug
+8de8bfc0a34704ec68a1d5cfe7c91acb54cfe470 refs/remotes/origin/greenkeeper/initial
+76a8e5f17079a277799710acdddce28cc5b1cabb refs/remotes/origin/master
+f6582a2a59d3d74d2b18d80a3413218463b3a6c9 refs/remotes/origin/revert-2-debug

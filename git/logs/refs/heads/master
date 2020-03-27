@@ -1,0 +1,54 @@
+0000000000000000000000000000000000000000 76a8e5f17079a277799710acdddce28cc5b1cabb Tiffany White <hey@tiffanyrwhite.com> 1537225100 -0400	clone: from https://github.com/twhite96/TWBlog.git
+76a8e5f17079a277799710acdddce28cc5b1cabb 10904913090428fbe636b96fef132a69cb0a1669 Tiffany White <hey@tiffanyrwhite.com> 1537929416 -0400	pull: Fast-forward
+10904913090428fbe636b96fef132a69cb0a1669 ae1e219a32060a73e66f37d75ed4f6bacb2a341f Tiffany White <hey@tiffanyrwhite.com> 1537934993 -0400	commit: Update now page
+ae1e219a32060a73e66f37d75ed4f6bacb2a341f e1263509e8d7c3c58c73d7afcd1d0a2396506f8d Tiffany White <hey@tiffanyrwhite.com> 1537935194 -0400	commit: Shrink image on now page
+e1263509e8d7c3c58c73d7afcd1d0a2396506f8d 33da2a76e8663c8a9b9591bf556d9a5487717ca5 Tiffany White <hey@tiffanyrwhite.com> 1538093732 -0400	commit: Update now and uses pages
+33da2a76e8663c8a9b9591bf556d9a5487717ca5 04c6b45c8a323ae3d4016de91a6a2e50ce9004cb Tiffany White <hey@tiffanyrwhite.com> 1538799304 -0400	commit: Add service worker, prism.js, and newsletter include
+04c6b45c8a323ae3d4016de91a6a2e50ce9004cb e277b1c0dd813c1e8cad0ed805a639fcdbc40928 Tiffany White <hey@tiffanyrwhite.com> 1538800846 -0400	commit: Update weekly reading page
+e277b1c0dd813c1e8cad0ed805a639fcdbc40928 acf8f6a0616a1771aa604e32171bfaf8c645bfe5 Tiffany White <hey@tiffanyrwhite.com> 1538883675 -0400	commit: Add Ko-Fi, new post, change blockquote style
+acf8f6a0616a1771aa604e32171bfaf8c645bfe5 15e9dfc1351943ecb07f6736a197bcee8fb0e5dd Tiffany White <hey@tiffanyrwhite.com> 1538885003 -0400	commit: Update uses page
+15e9dfc1351943ecb07f6736a197bcee8fb0e5dd 60edd75e2957b7fa81c58ccbd90ba1522cf0601a Tiffany White <hey@tiffanyrwhite.com> 1538885559 -0400	commit: Reduce size of now page header
+60edd75e2957b7fa81c58ccbd90ba1522cf0601a e21c8a89e91e04081221420fbe3d686983684828 Tiffany White <hey@tiffanyrwhite.com> 1538889766 -0400	commit: Add category pages, lazyload newsletter signups on posts
+e21c8a89e91e04081221420fbe3d686983684828 2f4799297c41dd836eb424e5f241942aa1a9bb3c Tiffany White <hey@tiffanyrwhite.com> 1538953353 -0400	commit: Edit categories on React posts
+2f4799297c41dd836eb424e5f241942aa1a9bb3c 0911b70f22c05aaae1eef29636d922478f47dd21 Tiffany White <hey@tiffanyrwhite.com> 1538954698 -0400	commit: Fix mixed content and syntax highlighting
+0911b70f22c05aaae1eef29636d922478f47dd21 72f5fe6f8a01d877cbba7ecf7709d960a9d7e465 Tiffany White <hey@tiffanyrwhite.com> 1538964457 -0400	commit: Fix mixed content on images
+72f5fe6f8a01d877cbba7ecf7709d960a9d7e465 d6e21c7eef034fca486b5bc83f584cd5d50c06b2 Tiffany White <hey@tiffanyrwhite.com> 1538965128 -0400	commit: Remove dupe content in some posts
+d6e21c7eef034fca486b5bc83f584cd5d50c06b2 889a395302e88f901a864de0362b110f09387ec1 Tiffany White <hey@tiffanyrwhite.com> 1538965202 -0400	commit: Remove dupe content in some posts
+889a395302e88f901a864de0362b110f09387ec1 3b085014ffce7208de349c1ab968f6e800a5d58d Tiffany White <hey@tiffanyrwhite.com> 1538973972 -0400	commit: Update now page
+3b085014ffce7208de349c1ab968f6e800a5d58d c25656a13a26509407d38def353f1bcb76f23a24 Tiffany White <hey@tiffanyrwhite.com> 1538974218 -0400	commit: Update sort order of pages
+c25656a13a26509407d38def353f1bcb76f23a24 49365e73b9c3caf9155c9e7e94f724e6ba808161 Tiffany White <hey@tiffanyrwhite.com> 1539213296 -0400	pull: Fast-forward
+49365e73b9c3caf9155c9e7e94f724e6ba808161 78893b076dc3b50751144c30bfbcfb2e0ebfcb6e Tiffany White <hey@tiffanyrwhite.com> 1539319400 -0400	pull: Fast-forward
+78893b076dc3b50751144c30bfbcfb2e0ebfcb6e 658ecb5d91c448bac77d998cfef8830b9bc2f347 Tiffany White <hey@tiffanyrwhite.com> 1539322157 -0400	commit: Add non-functioning progress bar, add archive page
+658ecb5d91c448bac77d998cfef8830b9bc2f347 f6d8e15c849a83e243529c9a5e83634cceb0647b Tiffany White <hey@tiffanyrwhite.com> 1539322834 -0400	commit: Reduce font size of sidebar title
+f6d8e15c849a83e243529c9a5e83634cceb0647b 88f958e7b18afe99d29727ba1762f3c1a97e7dc8 Tiffany White <hey@tiffanyrwhite.com> 1539322935 -0400	commit: Add title to archive page
+88f958e7b18afe99d29727ba1762f3c1a97e7dc8 4a6c79d8cdc00d5bf4d9fbe656022264734fa49e Tiffany White <hey@tiffanyrwhite.com> 1539330941 -0400	commit: Update now page
+4a6c79d8cdc00d5bf4d9fbe656022264734fa49e af43f6fa20e022d47e850c62c8de7848f7fea8a2 Tiffany White <hey@tiffanyrwhite.com> 1539331086 -0400	commit: Add JavaScript category to sidebar
+af43f6fa20e022d47e850c62c8de7848f7fea8a2 992b1fa3afb8a017b2a9b807f0acd89a17cdae15 Tiffany White <hey@tiffanyrwhite.com> 1539332720 -0400	commit: Fix site title font size, add header to archive page
+992b1fa3afb8a017b2a9b807f0acd89a17cdae15 aa4aff6c244b4e5d3c5f8f0b947882bcc5767dea Tiffany White <hey@tiffanyrwhite.com> 1539407484 -0400	commit: Add new watch screenshot to now page, fix old code snippets
+aa4aff6c244b4e5d3c5f8f0b947882bcc5767dea bf843b0cab0aa8c490a744200047a244ebe2e3e5 Tiffany White <hey@tiffanyrwhite.com> 1539416192 -0400	commit: Remove dupe posts
+bf843b0cab0aa8c490a744200047a244ebe2e3e5 27ffb029f03753282a00dbf846c4a695ae461715 Tiffany White <hey@tiffanyrwhite.com> 1539493084 -0400	commit: Add syntax highlighting for more langs
+27ffb029f03753282a00dbf846c4a695ae461715 d159dfa75b8461108c14eaea173ef02c64c37185 Tiffany White <hey@tiffanyrwhite.com> 1539657305 -0400	commit: Trying upup library for offline page
+d159dfa75b8461108c14eaea173ef02c64c37185 69a518176a45170779feeeb65ab07c5d9eb8c560 Tiffany White <hey@tiffanyrwhite.com> 1539658344 -0400	commit: Return to jekyll-pwa
+69a518176a45170779feeeb65ab07c5d9eb8c560 df49580738b6e6fc8c0abc4d07b741b8c0e0fd7e Tiffany White <hey@tiffanyrwhite.com> 1539716466 -0400	commit: Add svg for header image
+df49580738b6e6fc8c0abc4d07b741b8c0e0fd7e db230f12324a9d028da06959c92602cd2a03ff58 Tiffany White <hey@tiffanyrwhite.com> 1540273035 -0400	commit: Update header logo svg
+db230f12324a9d028da06959c92602cd2a03ff58 95492de2ed7214a717bf686259189a6e4292819f Tiffany White <hey@tiffanyrwhite.com> 1540439694 -0400	commit: Update service worker cache
+95492de2ed7214a717bf686259189a6e4292819f af841b4e6f1ba13abdcb7d3d2e01833a9dc711b5 Tiffany White <hey@tiffanyrwhite.com> 1540531934 -0400	commit: Fix formatting on IIFE post
+af841b4e6f1ba13abdcb7d3d2e01833a9dc711b5 0cd686810da7ea81f8abab872f35dcb92f70500c Tiffany White <hey@tiffanyrwhite.com> 1540532299 -0400	commit: Fix formatting on IIFE post
+0cd686810da7ea81f8abab872f35dcb92f70500c 8aec02065f67b2de4bda6e0c9557a0f48b7095fa Tiffany White <hey@tiffanyrwhite.com> 1540532768 -0400	commit: Fix formatting on DRY post
+8aec02065f67b2de4bda6e0c9557a0f48b7095fa c083742cbf6ea42a6505d823477234ac025e80fc Tiffany White <hey@tiffanyrwhite.com> 1541039987 -0400	commit: Updated IIFE post and add new donate button
+c083742cbf6ea42a6505d823477234ac025e80fc 131a73756a13f919ba874e85be070e3d618da174 Tiffany White <hey@tiffanyrwhite.com> 1541040907 -0400	commit: Update version for service worker cache
+131a73756a13f919ba874e85be070e3d618da174 b8c9fc2cd233d5ce2adc80b7789e938845c708d7 Tiffany White <hey@tiffanyrwhite.com> 1541042989 -0400	commit: Update uses page
+b8c9fc2cd233d5ce2adc80b7789e938845c708d7 535a2b56efc0d1439bff052ab547404f7ce70824 Tiffany White <hey@tiffanyrwhite.com> 1541390924 -0500	commit: Update analytics
+535a2b56efc0d1439bff052ab547404f7ce70824 59d74c27b64483620ed70e2669c3278319755a7e Tiffany White <hey@tiffanyrwhite.com> 1541391068 -0500	commit: Update service worker
+59d74c27b64483620ed70e2669c3278319755a7e 27790cd8b6a7d85bdd06ce5433f316a46ec8516d Tiffany White <hey@tiffanyrwhite.com> 1541461904 -0500	commit: Update something
+27790cd8b6a7d85bdd06ce5433f316a46ec8516d 8f05446dc7777e0120223caa73c43b93061f36bb Tiffany White <hey@tiffanyrwhite.com> 1541467320 -0500	commit: Update something
+8f05446dc7777e0120223caa73c43b93061f36bb a05b21af55aa902256aeb3f5e2e76ec49b75b162 Tiffany White <hey@tiffanyrwhite.com> 1542684968 -0500	commit: Add contact page, form, and styles
+a05b21af55aa902256aeb3f5e2e76ec49b75b162 fcc4dbd787f9e24de7f6ab795d46f5ea73699e09 Tiffany White <hey@tiffanyrwhite.com> 1542685362 -0500	commit: Forgot to add modified files
+fcc4dbd787f9e24de7f6ab795d46f5ea73699e09 d430112dc952a202b23e053b2a875f0c532f036d Tiffany White <hey@tiffanyrwhite.com> 1543643351 -0500	pull: Fast-forward
+d430112dc952a202b23e053b2a875f0c532f036d 362cc35329b32511bc4c4fd108c529c2913b1eea Tiffany White <hey@tiffanyrwhite.com> 1543643383 -0500	commit: Update uses page
+362cc35329b32511bc4c4fd108c529c2913b1eea 7776c17d78e4fab9c5d7e73ee8c1f281f0a988ee Tiffany White <hey@tiffanyrwhite.com> 1543645201 -0500	commit: Update sidebar and now page
+7776c17d78e4fab9c5d7e73ee8c1f281f0a988ee 6dbd714d52c4e71fe8f6227edb230a7532810590 Tiffany White <hey@tiffanyrwhite.com> 1543645522 -0500	commit: Update now page and service worker
+6dbd714d52c4e71fe8f6227edb230a7532810590 b51efd04369c9791729a34f89639c88a8fe2f57c Tiffany White <hey@tiffanyrwhite.com> 1544110024 -0500	pull: Fast-forward
+b51efd04369c9791729a34f89639c88a8fe2f57c 9d9f8cfbc5c580aabcebcb21d670f98330da9786 Tiffany White <hey@tiffanyrwhite.com> 1544110063 -0500	commit: Add honeypot to contact form
+9d9f8cfbc5c580aabcebcb21d670f98330da9786 cc9e2f189ffbd795f67b4df53c95147786361173 Tiffany White <hey@tiffanyrwhite.com> 1544161584 -0500	commit: Update service-worker.js
+cc9e2f189ffbd795f67b4df53c95147786361173 960c2cbd3c1993e7ae076b09e26b309651b84292 Tiffany White <hey@tiffanyrwhite.com> 1544170822 -0500	commit: Update setup photo for uses page
